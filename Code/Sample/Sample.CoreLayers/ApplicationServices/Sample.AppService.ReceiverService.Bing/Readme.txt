@@ -1,0 +1,1 @@
+﻿The design of this demo project supports more than one search engine. Different receiver may has different data source, format, logic and configuration. Bing and Google projects is just an example.

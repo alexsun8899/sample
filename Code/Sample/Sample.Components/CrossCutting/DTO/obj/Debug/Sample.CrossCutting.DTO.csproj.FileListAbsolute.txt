@@ -1,0 +1,5 @@
+E:\Code\Sample\Sample.Components\CrossCutting\DTO\bin\Debug\Sample.CrossCutting.DTO.dll
+E:\Code\Sample\Sample.Components\CrossCutting\DTO\bin\Debug\Sample.CrossCutting.DTO.pdb
+E:\Code\Sample\Sample.Components\CrossCutting\DTO\obj\Debug\Sample.CrossCutting.DTO.csprojResolveAssemblyReference.cache
+E:\Code\Sample\Sample.Components\CrossCutting\DTO\obj\Debug\Sample.CrossCutting.DTO.dll
+E:\Code\Sample\Sample.Components\CrossCutting\DTO\obj\Debug\Sample.CrossCutting.DTO.pdb

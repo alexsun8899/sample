@@ -1,0 +1,5 @@
+E:\Code\Sample\Sample.Components\SvcRefLib\Sample.Components.SvcRefLib.Core\bin\Debug\Sample.Components.SvcRefLib.Core.dll.config
+E:\Code\Sample\Sample.Components\SvcRefLib\Sample.Components.SvcRefLib.Core\bin\Debug\Sample.Components.SvcRefLib.Core.dll
+E:\Code\Sample\Sample.Components\SvcRefLib\Sample.Components.SvcRefLib.Core\bin\Debug\Sample.Components.SvcRefLib.Core.pdb
+E:\Code\Sample\Sample.Components\SvcRefLib\Sample.Components.SvcRefLib.Core\obj\Debug\Sample.Components.SvcRefLib.Core.dll
+E:\Code\Sample\Sample.Components\SvcRefLib\Sample.Components.SvcRefLib.Core\obj\Debug\Sample.Components.SvcRefLib.Core.pdb

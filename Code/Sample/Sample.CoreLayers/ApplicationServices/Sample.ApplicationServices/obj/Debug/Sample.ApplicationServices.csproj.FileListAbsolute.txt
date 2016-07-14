@@ -1,0 +1,7 @@
+E:\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.ApplicationServices\bin\Debug\Sample.ApplicationServices.dll
+E:\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.ApplicationServices\bin\Debug\Sample.ApplicationServices.pdb
+E:\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.ApplicationServices\obj\Debug\Sample.ApplicationServices.dll
+E:\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.ApplicationServices\obj\Debug\Sample.ApplicationServices.pdb
+E:\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.ApplicationServices\bin\Debug\Sample.CrossCutting.DTO.dll
+E:\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.ApplicationServices\bin\Debug\Sample.CrossCutting.DTO.pdb
+E:\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.ApplicationServices\obj\Debug\Sample.ApplicationServices.csprojResolveAssemblyReference.cache

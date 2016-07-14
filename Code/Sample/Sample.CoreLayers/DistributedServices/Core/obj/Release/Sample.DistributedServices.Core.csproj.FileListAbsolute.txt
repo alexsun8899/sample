@@ -1,0 +1,1 @@
+E:\Code\Sample\Sample.CoreLayers\DistributedServices\Core\bin\Release\Sample.DistributedServices.Core.exe.config

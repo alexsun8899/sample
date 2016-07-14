@@ -1,0 +1,4 @@
+E:\Code\Sample\Sample.CoreLayers\Infrastructure\Sample.Infrastructure\bin\Debug\Sample.Infrastructure.dll
+E:\Code\Sample\Sample.CoreLayers\Infrastructure\Sample.Infrastructure\bin\Debug\Sample.Infrastructure.pdb
+E:\Code\Sample\Sample.CoreLayers\Infrastructure\Sample.Infrastructure\obj\Debug\Sample.Infrastructure.dll
+E:\Code\Sample\Sample.CoreLayers\Infrastructure\Sample.Infrastructure\obj\Debug\Sample.Infrastructure.pdb

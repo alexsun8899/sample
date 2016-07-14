@@ -1,0 +1,48 @@
+﻿@model Sample.Presentation.Web.Models.SearchRequestViewModel
+
+<div class="panel panel-default" style="height:500px">
+    <div class="panel-heading">Search</div>
+    <div class="panel-body">
+        @using (
+               Ajax.BeginForm("GetKeywordPosition", "Home", null,
+               new AjaxOptions
+               {
+                   HttpMethod = "POST",
+                   UpdateTargetId = "panel-search-response"
+               }, new { id = "form-search-input" }))
+        {
+            <div class="form-group">
+                <label for="keyword">Keyword:</label>
+                @Html.TextAreaFor(x => x.Keyword, new { @class = "form-control", id = "keyword"})
+            </div>
+                    <div class="form-group">
+                        <label for="domain">Domain:</label>
+                        @Html.TextBoxFor(x => x.Domain, new { @class = "form-control", id = "domain"})
+                    </div>
+                    <fieldset disabled>
+                        <div class="form-group">
+                            <label for="disabledSelect">Country</label>
+                            @*<select id="disabledSelect" class="form-control">
+                                    <option>Australia</option>
+                                </select>*@
+                            @Html.DropDownListFor(x => x.Country, new[] { new SelectListItem { Value = "au", Text = "Australia"} }, new { @class = "form-control" })
+                        </div>
+                        <div class="form-group">
+                            <label for="disabledSelect">Language</label>
+                            @*<select id="disabledSelect" class="form-control">
+                                    <option>English</option>
+                                </select>*@
+                            @Html.DropDownListFor(x => x.Language, new[] { new SelectListItem { Value = "eng", Text = "English"} }, new { @class = "form-control" })
+                        </div>
+                        <div class="form-group">
+                            <label for="disabledSelect">Result Range</label>
+                            @*<select id="disabledSelect" class="form-control">
+                                    <option>0-100</option>
+                                </select>*@
+                            @Html.DropDownListFor(x => x.Range, new[] { new SelectListItem { Value = "100", Text = "0-100"} }, new { @class = "form-control" })
+                        </div>
+                    </fieldset>
+                    <button type="submit" class="btn btn-default">Submit</button>
+        }
+    </div>
+</div>

@@ -1,0 +1,5 @@
+E:\Test\Code\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.AppService.ReceiverService.Source\bin\Debug\Sample.AppService.ReceiverService.Source.dll
+E:\Test\Code\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.AppService.ReceiverService.Source\bin\Debug\Sample.AppService.ReceiverService.Source.pdb
+E:\Test\Code\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.AppService.ReceiverService.Source\obj\Debug\Sample.AppService.ReceiverService.Source.csprojResolveAssemblyReference.cache
+E:\Test\Code\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.AppService.ReceiverService.Source\obj\Debug\Sample.AppService.ReceiverService.Source.dll
+E:\Test\Code\Code\Sample\Sample.CoreLayers\ApplicationServices\Sample.AppService.ReceiverService.Source\obj\Debug\Sample.AppService.ReceiverService.Source.pdb

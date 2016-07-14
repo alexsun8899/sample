@@ -1,0 +1,5 @@
+E:\Code\Sample\Sample.Components\CrossCutting\Common\bin\Debug\Sample.CrossCutting.Common.dll
+E:\Code\Sample\Sample.Components\CrossCutting\Common\bin\Debug\Sample.CrossCutting.Common.pdb
+E:\Code\Sample\Sample.Components\CrossCutting\Common\obj\Debug\Sample.CrossCutting.Common.dll
+E:\Code\Sample\Sample.Components\CrossCutting\Common\obj\Debug\Sample.CrossCutting.Common.pdb
+E:\Code\Sample\Sample.Components\CrossCutting\Common\obj\Debug\Sample.CrossCutting.Common.csprojResolveAssemblyReference.cache

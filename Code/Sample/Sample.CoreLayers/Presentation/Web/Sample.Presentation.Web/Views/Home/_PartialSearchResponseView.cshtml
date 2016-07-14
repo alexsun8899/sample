@@ -1,0 +1,11 @@
+﻿@model Sample.Presentation.Web.Models.SearchResponseViewModel
+
+<div class="panel panel-default" style="height:500px">
+    <div class="panel-heading">Result</div>
+    <div class="panel-body">
+        <div class="form-group">
+            <label for="result">Result:</label>
+            @Html.TextBoxFor(x => x.Result, new { @class = "form-control", id = "result"})
+        </div>
+    </div>
+</div>

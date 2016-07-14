@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@model Sample.Presentation.Web.Models.SearchIndexViewModel
+
+<div class="jumbotron">
+    <h2>Keyword Position Checker</h2>
+    <p class="lead">For check keyword postion in Google rank, please enter your keyword and domain name.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div id="panel-search-request">
+            @Html.Partial("~/Views/Home/_PartialSearchRequestView.cshtml", Model.SearchRequestViewModel)
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div id="panel-search-response">
+            @Html.Partial("~/Views/Home/_PartialSearchResponseView.cshtml", Model.SearchResponseViewModel)
+        </div>
+    </div>
+</div>
+
